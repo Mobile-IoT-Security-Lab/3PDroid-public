@@ -1,0 +1,142 @@
+{
+    "demographic_age": [
+        "android.permission.MANAGE_USERS",
+        "android.permission.BODY_SENSORS",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_ACCOUNTS_PRIVILEGED"
+    ],
+    "demographic_gender": [
+        "android.permission.MANAGE_USERS",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_ACCOUNTS_PRIVILEGED",
+        "android.permission.BODY_SENSORS"
+    ],
+    "demographic_information": [
+        "android.permission.MANAGE_USERS",
+        "android.permission.READ_SMS",
+        "android.permission.BODY_SENSORS",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_ACCOUNTS_PRIVILEGED"
+    ],
+    "contact_zip": [
+        "android.permission.MANAGE_USERS",
+        "android.permission.READ_CONTACTS"
+    ],
+    "contact_address": [
+        "android.permission.CALL_PHONE",
+        "android.permission.READ_CONTACTS"
+    ],
+    "contact_city": [
+        "android.permission.MANAGE_USERS",
+        "android.permission.READ_CONTACTS"
+    ],
+    "contact_email_address": [
+        "android.permission.MANAGE_USERS",
+        "android.permission.READ_CONTACTS"
+    ],
+    "contact_password": [
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.USE_BIOMETRIC"
+    ],
+    "contact_phone_number": [
+        "android.permission.READ_SMS",
+        "android.permission.CALL_PHONE",
+        "android.permission.READ_CONTACTS",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_ACCOUNTS_PRIVILEGED",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.READ_PHONE_NUMBERS",
+        "android.permission.READ_CALL_LOG"
+    ],
+    "contact_postal": [
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.READ_PHONE_NUMBERS"
+    ],
+    "contact_information": [
+        "android.permission.READ_SMS",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_ACCOUNTS_PRIVILEGED",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.READ_PHONE_NUMBERS",
+        "android.permission.READ_CALL_LOG"
+    ],
+    "location_information": [
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.READ_CELL_BROADCASTS",
+        "android.permission.ACCESS_MEDIA_LOCATION"
+    ],
+    "location_cell_tower": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.READ_CELL_BROADCASTS"
+    ],
+    "location_ip_address": [
+        "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "location_gps": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_MEDIA_LOCATION"
+    ],
+    "location_wifi": [
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "location_bluetooth": [
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN"
+    ],
+    "identifier_information": [
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_PRIVILEGED_PHONE_STATE"
+    ],
+    "identifier_imei": [
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "identifier_ip_address": [
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_PRIVILEGED_PHONE_STATE"
+    ],
+    "identifier_cookie_or_similar_tech": [
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "identifier_mac": [
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.PEERS_MAC_ADDRESS",
+        "android.permission.LOCAL_MAC_ADDRESS",
+        "android.permission.READ_PRIVILEGED_PHONE_STATE"
+    ],
+    "identifier_device": [
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "identifier_SSID_BSSID": [
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "identifier_imsi": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_PRIVILEGED_PHONE_STATE"
+    ],
+    "identifier_ad_id": [
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "identifier_sim_serial": [
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ]
+}

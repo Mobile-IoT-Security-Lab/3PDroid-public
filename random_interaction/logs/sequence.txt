@@ -1,0 +1,174 @@
+10/02/2020 14:53:03
+
+
+Current Application: /Users/andreronda/Documents/Random-Interaction-Appium/random_interaction/apps/calc.apkCurrent Activity: 
+
+
+action: com.thgdev.calc:id/btnDot Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btn0 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnSub Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnMSub Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/txtInput Activity: .MainActivity
+
+
+string :180
+
+
+action: com.thgdev.calc:id/btnMR Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/txtInput Activity: .MainActivity
+
+
+string :9487
+
+
+action: com.thgdev.calc:id/txtMemory Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnMC Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btn6 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btn4 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btn5 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnLeftParen Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnMC Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/txtMemory Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btn4 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnExpand Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/txtInput Activity: .MainActivity
+
+
+string :nxcwb0yn
+
+
+action: com.thgdev.calc:id/btn0 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnInverse Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btn9 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnRightParen Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnMenu Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/txtInput Activity: .MainActivity
+
+
+string :l09u8hs
+
+
+action: com.thgdev.calc:id/btnMenu Activity: .MainActivity
+
+
+10/02/2020 17:23:24
+
+
+Current Application: C:\Users\caput\Developer\Random-Interaction-Appium\random_interaction\apps\calc.apkCurrent Activity: 
+
+
+action: com.thgdev.calc:id/btn0 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnDeg Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btn1 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/txtMemory Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnMenu Activity: .MainActivity
+
+
+action: androidx.appcompat.widget.LinearLayoutCompat Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btn1 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnEqual Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnDot Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btn5 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnSub Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnAdd Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnMR Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnDeg Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnMR Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnMul Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnPercent Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnDoubleZero Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnRightParen Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnDeg Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnMSub Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btn2 Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnExpand Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btnInverseCosh Activity: .MainActivity
+
+
+action: com.thgdev.calc:id/btn3 Activity: .MainActivity
+
+

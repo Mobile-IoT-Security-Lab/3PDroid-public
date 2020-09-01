@@ -1,0 +1,1 @@
+shuf -n 100 -e ALL_APPS/* | xargs -i mv {} APPS_SCHEDULED/

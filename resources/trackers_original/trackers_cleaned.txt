@@ -1,0 +1,260 @@
+Teemo,com.databerries.|com.geolocstation.
+FidZup,com.fidzup.
+Krux,com.krux.androidsdk
+Ad4Screen,com.ad4screen.sdk
+Google DoubleClick,com.google.android.gms.ads.doubleclick
+Weborama,com.weborama.
+Smart,com.smartadserver.
+JW Player,com.longtailvideo.jwplayer.
+Loggly,com.github.tony19.timber.loggly|com.github.tony19.loggly|com.visiware.sync2ad.logger.loggly.
+Xiti,NC
+OutBrain,com.outbrain.
+AppsFlyer,com.appsflyer.
+Ligatus,.LigatusManager|.LigatusViewClient|com.ligatus.android.adframework
+Widespace,com.widespace.
+AppNexus,com.appnexus.opensdk.
+Localytics,com.localytics.android.
+Braze (formerly Appboy),com.appboy
+MParticle,com.mparticle
+S4M,com.sam4mobile.
+Sizmek,.sizmek.
+Batch,com.batch.android.
+Sync2Ad,com.visiware.sync2ad.dmp.
+Flurry,com.flurry.
+HockeyApp,net.hockeyapp.
+Google CrashLytics,io.fabric.|com.crashlytics.
+LeanPlum,com.leanplum.
+Tinder Analytics,com.tinder.analytics|com.tinder.ads
+Schibsted,.schibsted.
+ATInternet,com.atinternet.
+Tealium,.tealium.
+Nexage,com.nexage.android.|org.nexage.
+Ogury Presage,io.presage.
+Twitter MoPub,com.mopub.mobileads.
+Add Apt Tr,com.intentsoftware.addapptr.
+Vectaury,io.vectaury.
+Tune,com.tune|com.mobileapptracker
+Pushwoosh,com.pushwoosh
+Demdex,com.adobe.mobile.Analytics
+AdsWizz,.adswizz.
+ExactTarget,com.exacttarget.
+Omniture,com.omniture.|com.adobe.adms.measurement.
+Safe Graph,com.safegraph.|com.openlocate
+Tag Commander,com.tagcommander.
+CrowdTangle,.
+Facebook Audience,com.facebook.audiencenetwork
+Google Analytics,com.google.android.apps.analytics.|com.google.android.gms.analytics.
+Google Firebase Analytics,com.google.firebase.analytics.|com.google.android.gms.measurement.
+Eulerian,com.eulerian.android.sdk
+Adjust,com.adjust.sdk.
+ChartBoost,com.chartboost.sdk.
+Backelite,com.backelite.android.|com.backelite.bkdroid.
+Areametrics,com.areametrics.areametricssdk|com.areametrics.nosdkandroid
+ComScore,com.comscore.
+Cuebiq,com.cuebiq.cuebiqsdk.model.Collector|com.cuebiq.cuebiqsdk.receiver.CoverageReceiver
+HelpShift,com.helpshift
+Kontakt,com.kontakt.sdk.android.
+Locuslabs,com.locuslabs.sdk
+Moat,com.moat.analytics.mobile.
+Segment,com.segment.analytics.
+Mobile Engagement,com.ubikod.capptain.|com.microsoft.azure.engagement.
+Colocator,net.crowdconnected.androidcolocator
+Facebook Ads,com.facebook.ads
+Facebook Analytics,com.facebook.appevents
+Facebook Login,com.facebook.login
+Facebook Notifications,com.facebook.notifications
+Facebook Places,com.facebook.places
+Facebook Share,com.facebook.share
+Google Ads,com.google.android.gms.ads.mediation.|com.google.android.gms.ads.|com.google.ads.mediation.
+AppLovin,com.applovin
+Glispa Connect (Formerly Avocarrot),com.avocarrot.sdk
+NativeX,com.nativex
+Baidu Maps,com.baidu.BaiduMap
+WeChat Location,com.tencent.map.geolocation|com.tencent.mm.plugin.location.|com.tencent.mm.plugin.location_soso.|com.tencent.mm.plugin.location_google
+HyperTrack,com.hypertrack|com.hypertracklive.|io.hypertrack
+Uber Analytics,com.ubercab.analytics.|com.ubercab.library.metrics.analytics.|com.ubercab.client.core.analytics.
+Lisnr,com.lisnr.
+SilverPush,com.silverpush.|com.silverpush.location|com.silverpush.sdk.android.SPService
+Shopkick,com.shopkick.sdk.api.|com.shopkick.fetchers.
+Alphonso,tv.alphonso.service
+Smaato,com.smaato.soma.
+Scandit,com.scandit.
+Inrix,com.inrix.sdk
+Signal360,com.signal360.sdk.core.|com.sonicnotify.sdk.core.|com.rnsignal360
+TeleQuid,com.telequid.
+Retency,com.retency.sdk.android
+MAdvertise,com.mngads.sdk|com.mngads.views|com.mngads.
+AdColony,com.adcolony
+AccountKit,com.facebook.accountkit
+Amazon Advertisement,com.amazon.device.ads
+Amazon Mobile Associates,com.amazon.device.associates
+Radius Networks,com.radiusnetworks
+Amazon Analytics,com.amazon.insights|com.amazonaws.mobileconnectors.pinpoint.analytics.|com.amazonaws.mobileconnectors.amazonmobileanalytics
+Baidu APPX,com.baidu.appx
+Baidu Location,com.baidu.location
+Baidu Map,com.baidu.mapapi
+Baidu Mobile Ads,com.baidu.mobads
+Baidu Mobile Stat,com.baidu.mobstat
+Estimote,com.estimote.
+Baidu Navigation,com.baidu.navi
+Fyber,com.fyber.
+Google Tag Manager,com.google.tagmanager|com.google.android.gms.tagmanager
+Inmobi,com.inmobi
+Millennial Media,com.millennialmedia.
+Snowplow,com.snowplowanalytics.
+Fyber SponsorPay,com.sponsorpay
+Supersonic Ads,com.supersonic.adapters.supersonicads|com.supersonicads.sdk
+Carnival,com.carnival.sdk|com.carnivalmobile
+Tencent Map LBS,com.tencent.lbs
+Tencent MobWin,com.tencent.mobwin
+Tencent MTA,com.tencent.mta
+Apptentive,com.apptentive.
+Tencent Stats,com.tencent.stat
+Tencent Weiyun,com.tencent.weiyun
+MixPanel,com.mixpanel.
+Umeng Analytics,com.umeng.analytics
+Umeng Feedback,com.umeng.fb
+Unity3d Ads,com.unity3d.services|com.unity3d.ads
+Countly,ly.count.android.
+Urbanairship,com.urbanairship
+Yandex Ad,com.yandex.mobile.ads
+Amplitude,com.amplitude.
+AppSee,com.appsee.
+Kochava,com.kochava.base.Tracker|com.kochava.android.tracker.
+Webtrends,com.webtrends.mobile.analytics.|com.webtrends.mobile.android
+New Relic,com.newrelic.agent.
+AppAnalytics,io.appanalytics.sdk
+Applause,com.applause.android.
+Quantcast,com.quantcast.measurement.service.
+Apptimize,com.apptimize.
+AppBrain,com.appbrain.
+Dynatrace,com.dynatrace.android.app.
+Matomo (Piwik),org.piwik|org.piwik.mobile|org.matomo
+AppMetrica,com.yandex.metrica.
+Singlespot,com.sptproximitykit.
+Sensoro,com.sensoro.beacon.kit.|com.sensoro.cloud
+Sense360,com.sense360.android.quinoa.lib.Sense360
+Rubicon Project,com.rfm.sdk
+ironSource,com.ironsource.
+Heyzap (bought by Fyber),com.heyzap.sdk.ads.
+Gigya,com.gigya.
+Foresee,com.foresee.sdk.ForeSee
+Fiksu,com.fiksu.asotracking
+Ensighten,com.ensighten.
+Dynamic Yield,com.dynamicyield.
+BlueKai (acquired by Oracle),com.bluekai.sdk.
+BlueConic,com.blueconic
+Apteligent by VMWare (formerly Crittercism),com.crittercism.app.Crittercism
+AdFit (Daum),com.kakao.adfit.ads.
+Adform,com.adform.sdk.
+Adfurikun,jp.tjkapp.adfurikunsdk.
+Mobvista,com.mobvista.
+Placed,com.placed.client
+Adot,com.adotmob
+Appodeal,com.appodeal.ads.
+AppMonet,com.monet.
+Soomla,com.soomla.
+Adincube,com.adincube.sdk.
+Persona.ly,ly.persona.sdk
+Branch,io.branch.
+Cheetah Ads,com.cmcm.
+Vungle,com.vungle.publisher.
+Criteo,com.criteo.
+Mapbox,com.mapbox.mapboxsdk.
+Optimizely,com.optimizely.
+Taboola,com.taboola.
+CleverTap,com.clevertap.
+myTracker,com.my.tracker.
+Cloudmobi,com.cloudtech.
+ADLIB,com.mocoplex.adlib.
+Brightcove,com.brightcove
+DOV-E,com.dv.
+Inmarket,com.inmarket
+Pilgrim,com.foursquare.pilgrim|com.foursquare.pilgrimsdk.android
+OtherLevels,com.otherlevels.
+PubNative,net.pubnative
+Appnext,com.appnext.
+MobFox,com.mobfox.
+ShallWeAD,com.jm.co.shallwead.sdk.|com.co.shallwead.sdk.
+deltaDNA,com.deltadna
+Display,io.display.
+HyprMX,com.hyprmx.android.sdk.
+Bugly,com.tencent.bugly.
+Duapps,com.duapps.
+Swrve,com.swrve.sdk
+OneSignal,com.onesignal.
+Appdynamics,com.appdynamics.
+Startapp,com.startapp.android.publish
+AerServ,com.aerserv.sdk.
+INFOnline,de.infonline.
+myTarget,com.my.target.
+Tapjoy,com.tapjoy.
+Mintegral,com.mintegral.
+Gimbal,com.gimbal.android
+Conviva,com.conviva.
+Auditude,com.auditude.ads
+Instreamatic,com.instreamatic
+GameAnalytics,com.gameanalytics.sdk
+Instabug,com.instabug.library.tracking|com.instabug.bug
+Bugsnag,com.bugsnag.
+Moodmedia,com.moodmedia
+Houndify,com.hound
+OpenX,com.openx.view.plugplay|com.openx.android_sdk_openx
+Taplytics,com.taplytics.sdk
+Yinzcam Sobek,com.yinzcam.sobek
+Ooyala,com.ooyala
+Kiip,me.kiip.sdk
+MobPower,com.mobpower.
+AdBuddiz,com.purplebrain.adbuddiz.sdk.
+Integral Ad Science,com.integralads.avid.library
+AltBeacon,org.altbeacon.beacon.|com.altbeacon.beacon.
+Salesforce Marketing Cloud,com.salesforce.marketingcloud
+Mozilla Telemetry,org.mozilla.telemetry|org.mozilla.gecko.telemetry
+nend,net.nend.android
+Pusher,com.pusher.client.
+FreeWheel,tv.freewheel.ad.
+TNK Factory,com.tnkfactory.ad
+Axonix,com.axonix.android.sdk|com.mobclix.android.sdk
+Gemius HeatMap,com.gemius.sdk
+YouAppi,com.youappi.sdk.
+Adobe Experience Cloud,com.adobe.marketing.mobile
+Teads,tv.teads.
+In Loco,com.inlocomedia.android
+IQzone,com.iqzone
+Bugfender,com.bugfender.sdk.
+Wootric,com.wootric.androidsdk.
+KIDOZ,com.kidoz.sdk
+PubMatic,com.pubmatic.sdk
+Kissmetrics,com.kissmetrics
+Microsoft Appcenter Crashes,com.microsoft.appcenter.crashes
+Webtrekk,com.webtrekk.webtrekksdk
+google-analytics-plugin,com.danielcwilson.plugins.analytics
+Bugsee,com.bugsee.library.Bugsee
+Splunk MINT,com.splunk.mint
+Microsoft Appcenter Analytics,com.microsoft.appcenter.analytics
+Nielsen,com.nielsen.app
+Reveal Mobile,com.stepleaderdigital.reveal
+Metrics,com.codahale.metrics
+Repro,io.repro.android.Repro
+Sensors Analytics,com.sensorsdata.analytics.android.sdk
+Tenjin,com.tenjin.android.TenjinSDK
+Tapstream,com.tapstream.sdk
+Singular,com.singular.sdk
+CallDorado,com.calldorado.android
+UXCam,com.uxcam.UXCam
+Upsight,com.upsight.android
+Appcelerator Analytics,com.appcelerator.aps.|org.appcelerator.titanium.analytics
+Adbrix,com.igaworks.adbrix
+Cauly,com.fsn.cauly|com.trid.tridad
+Tapdaq,com.tapdaq.sdk.
+Verve,com.vervewireless.advert.
+Apsalar,com.apsalar.sdk.
+PingStart,com.pingstart.adsdk.
+Keen,io.keen.client.
+Revmob,com.revmob.ads.
+Emarsys Predict,com.emarsys.predict
+Lotame,com.lotame.android
+FollowAnalytics,com.followanalytics.
+Chartbeat,com.chartbeat.androidsdk
+MoEngage,com.moengage.
+Altamob,com.altamob.sdk

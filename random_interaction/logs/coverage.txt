@@ -1,0 +1,15 @@
+
+
+Application: /Users/andreronda/Documents/Random-Interaction-Appium/random_interaction/apps/calc.apk
+Number Activities: 4, Visited activities: 1
+Activity Coverage = 0.25
+
+Number Buttons: 38, Pressed Buttons: 17
+Buttons Coverage = 0.4473684210526316
+
+Application: C:\Users\caput\Developer\Random-Interaction-Appium\random_interaction\apps\calc.apk
+Number Activities: 4, Visited activities: 1
+Activity Coverage = 0.25
+
+Number Buttons: 38, Pressed Buttons: 20
+Buttons Coverage = 0.5263157894736842

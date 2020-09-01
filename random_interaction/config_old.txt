@@ -1,0 +1,5 @@
+platformName Android
+platformVersion 7.0
+udid emulator-5554
+deviceName Pixel API 24
+isHeadless True

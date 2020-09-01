@@ -1,0 +1,27 @@
+Google Ads,com.google.android.gms.ads.mediation.|com.google.android.gms.ads.|com.google.ads.mediation.
+Google CrashLytics,io.fabric.|com.crashlytics.
+Google DoubleClick,com.google.android.gms.ads.doubleclick
+Google Analytics,com.google.android.apps.analytics.|com.google.android.gms.analytics.
+Google Firebase Analytics,com.google.firebase.analytics.|com.google.android.gms.measurement.
+Facebook Ads,com.facebook.ads
+Facebook Analytics,com.facebook.appevents
+Unity3d Ads,com.unity3d.services|com.unity3d.ads
+AppLovin,com.applovin
+Vungle,com.vungle.publisher.|com.vungle.warren.
+ironSource,com.ironsource.
+AppsFlyer,com.appsflyer.
+AdColony,com.adcolony
+Integral Ad Science,com.integralads.avid.library
+Twitter MoPub,com.mopub.mobileads.
+Inmobi,com.inmobi
+Adjust,com.adjust.sdk.
+Tapjoy,com.tapjoy.
+Amazon Advertisement,com.amazon.device.ads
+Amazon Analytics,com.amazon.insights|com.amazonaws.mobileconnectors.pinpoint.analytics.|com.amazonaws.mobileconnectors.amazonmobileanalytics
+Moat,com.moat.analytics.mobile.
+Flurry,com.flurry.
+Branch,io.branch.
+Yandex Ad,com.yandex.mobile.ads
+AppMetrica,com.yandex.metrica.
+GameAnalytics,com.gameanalytics.sdk
+Mobvista,com.mobvista.

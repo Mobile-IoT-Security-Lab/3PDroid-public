@@ -1,0 +1,5 @@
+platformName Android
+platformVersion 6.0
+udid emulator-5554
+deviceName emulator-5554
+isHeadless False

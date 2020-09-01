@@ -1,0 +1,8 @@
+[
+  {
+    "className": "android.webkit.WebView",
+    "methodName": "loadUrl",
+    "thisObject": true,
+    "category": "global"
+  }
+]

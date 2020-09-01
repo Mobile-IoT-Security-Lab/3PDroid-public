@@ -1,0 +1,145 @@
+{
+    "performed_not_performed": {
+        "path_model": "resources/cr_evaluator_model/performed_not_performed/model_RandomForest.pkl",
+        "model": null
+    },
+    "third_party_first_party": {
+        "path_model": "resources/cr_evaluator_model/third_party_first_party/model_RandomForest.pkl",
+        "model": null
+    },
+    "contact_address": {
+        "path_model": "resources/cr_evaluator_model/contact_address/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "contact_city": {
+        "path_model": "resources/cr_evaluator_model/contact_city/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "contact_email_address": {
+        "path_model": "resources/cr_evaluator_model/contact_email_address/model_SVC.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "contact_information": {
+        "path_model": "resources/cr_evaluator_model/contact_information/model_LinearSVC.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "contact_password": {
+        "path_model": "resources/cr_evaluator_model/contact_password/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "contact_phone_number": {
+        "path_model": "resources/cr_evaluator_model/contact_phone_number/model_LogisticRegression.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "contact_postal": {
+        "path_model": "resources/cr_evaluator_model/contact_postal/model_MultinomialNB.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "contact_zip": {
+        "path_model": "resources/cr_evaluator_model/contact_zip/model_AdaBoost.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "demographic_age": {
+        "path_model": "resources/cr_evaluator_model/demographic_age/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "demographic_gender": {
+        "path_model": "resources/cr_evaluator_model/demographic_gender/model_AdaBoost.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "demographic_information": {
+        "path_model": "resources/cr_evaluator_model/demographic_information/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "identifier_ad_id": {
+        "path_model": "resources/cr_evaluator_model/identifier_ad_id/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "identifier_cookie_or_similar_tech": {
+        "path_model": "resources/cr_evaluator_model/identifier_cookie_or_similar_tech/model_SVC.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "identifier_device": {
+        "path_model": "resources/cr_evaluator_model/identifier_device/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "identifier_imei": {
+        "path_model": "resources/cr_evaluator_model/identifier_imei/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "identifier_imsi": {
+        "path_model": "resources/cr_evaluator_model/identifier_imsi/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "identifier_information": {
+        "path_model": "resources/cr_evaluator_model/identifier_information/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "identifier_ip_address": {
+        "path_model": "resources/cr_evaluator_model/identifier_ip_address/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "identifier_mac": {
+        "path_model": "resources/cr_evaluator_model/identifier_mac/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "identifier_sim_serial": {
+        "path_model": "resources/cr_evaluator_model/identifier_sim_serial/model_MultinomialNB.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "identifier_SSID_BSSID": {
+        "path_model": "resources/cr_evaluator_model/identifier_SSID_BSSID/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "location_bluetooth": {
+        "path_model": "resources/cr_evaluator_model/location_bluetooth/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "location_cell_tower": {
+        "path_model": "resources/cr_evaluator_model/location_cell_tower/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "location_gps": {
+        "path_model": "resources/cr_evaluator_model/location_gps/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "location_information": {
+        "path_model": "resources/cr_evaluator_model/location_information/model_LinearSVC.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "location_ip_address": {
+        "path_model": "resources/cr_evaluator_model/location_ip_address/model_MultinomialNB.pkl",
+        "model": null,
+        "permissions": []
+    },
+    "location_wifi": {
+        "path_model": "resources/cr_evaluator_model/location_wifi/model_RandomForest.pkl",
+        "model": null,
+        "permissions": []
+    }
+}

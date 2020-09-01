@@ -1,0 +1,27 @@
+AdColony,adcolony.txt
+Adjust,adjust.txt
+Amazon Advertisement,amazon_ad.txt
+Amazon Analytics,amazon_analytics.txt
+AppLovin,applovin.txt
+AppMetrica,appmetrica.txt
+AppsFlyer,appsflyer.txt
+Branch,branch.txt
+Facebook Ads,facebook_ads.txt
+Facebook Analytics,facebook_analytics.txt
+Flurry,flurry.txt
+GameAnalytics,gameanalytics.txt
+Google Analytics,google_analytics.txt
+Google CrashLytics,google_crashlytics.txt
+Google DoubleClick,google_doubleclick.txt
+Google Ads,google_ads.txt
+Google Firebase Analytics,firebase_analytics.txt
+Inmobi,inmobi.txt
+Integral Ad Science,integral_ad_science.txt
+ironSource,ironsource.txt
+Moat,moat.txt
+Mobvista,mobvista.txt
+Tapjoy,tapjoy.txt
+Twitter MoPub,twitter_mopub.txt
+Unity3d Ads,unity3d_ads.txt
+Vungle,vungle.txt
+Yandex Ad,yandex_ad.txt
